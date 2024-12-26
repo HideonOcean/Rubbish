@@ -1,0 +1,33 @@
+[
+  {
+    "imageResId": "R.drawable.course_image1",
+    "courseName": "课程1",
+    "requiredPoints": 150,
+    "instructor": "老师1",
+    "description": "1.第一场虚拟战斗，一周目推荐加点力体速\n2.队友取名：选no取默认名-9\n第一次进入占卜馆占卜为命运搭档取名-广子ヒロコ（Hiroko）\n靠近出口的空房间为最强大的男性伙伴取名-赞因ザイン（Zain）\n3.第一次进入虚拟实境，遇见史蒂芬，获得恶魔召唤程序\n4.第二次进入虚拟实境，为最聪明的男性伙伴基美尔ギメル(Gimel)取名\n5.出门逛逛，地图的角落里已经可以遇见低级恶魔，建议在迷宫不遇敌的前期把能开的地图都开了\n体育场与红熊比赛前，记得把图开全拿道具和枪。为有力量的男性伙伴达雷斯ダレス（Dareth）取名\n",
+    "chapters": [
+      {"title": "第一章", "content": "这是第一章的内容"},
+      {"title": "第二章", "content": "这是第二章的内容"},
+      {"title": "第三章", "content": "这是第三章的内容"},
+      {"title": "第四章", "content": "这是第四章的内容"},
+      {"title": "第五章", "content": "这是第五章的内容"}
+    ]
+  },
+  {
+    "imageResId": "R.drawable.course_image2",
+    "courseName": "课程2",
+    "requiredPoints": 250,
+    "instructor": "老师2",
+    "description": "9.在中心控制室与广子道别，贝丝成为伙伴。被委托讨伐霍利镇的恶魔。密码是“0352”。\n 建议把Center可以开的地图都开完。注：强烈建议一周目初见不要看霍利镇、工厂、中心的地图，迷宫不算复杂自己走一遍就好，后续剧情后还会回这些地点的。\n ①中心BAR里可以听到通往21楼的密码5261）\n ②去一次虚拟实境steven会给你一个恶魔分析程序。解锁恶魔分析\n",
+    "chapters": [
+      {"title": "第一章", "content": "这是第一章的内容"},
+      {"title": "第二章", "content": "这是第二章的内容"},
+      {"title": "第三章", "content": "这是第三章的内容"},
+      {"title": "第四章", "content": "这是第四章的内容"},
+      {"title": "第五章", "content": "这是第五章的内容"},
+      {"title": "第六章", "content": "这是第六章的内容"},
+      {"title": "第七章", "content": "这是第七章的内容"},
+      {"title": "第八章", "content": "这是第八章的内容"}
+    ]
+  }
+]
